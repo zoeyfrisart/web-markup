@@ -1,0 +1,14 @@
+* {
+  vertical-align: top;
+}
+
+article {
+  width: 70vw;
+  display: inline-block;
+}
+
+aside {
+  width: 20vw;
+  margin-left: 16px;
+  display: inline-block
+}
