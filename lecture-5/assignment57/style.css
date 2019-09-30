@@ -1,0 +1,24 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./assets/background.jpeg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.mainpage {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  flex-shrink: 0;
+  padding: 16px;
+}
