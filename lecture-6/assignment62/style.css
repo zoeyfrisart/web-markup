@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+nav {
+  background: #000;
+  color: #fff;
+}
+
+article {
+  width: 640px;
+  background: #F8F;
+  margin: 10px;
+  border: solid 10px #F0F;
+  padding: 10px;
+  float: left;
+}
+
+p {
+  background: #FFC;
+}
+
+img {
+  background: #8F8;
+  margin: 10px;
+  border: 10px solid #0F0;
+  padding: 10px;
+  position: relative;
+}
+
+aside {
+  width: 100px;
+  background: #DDD;
+  float: right;
+}
+
+footer {
+  background: #000;
+  color: #FFF;
+  clear: both;
+  text-align: center;
+}

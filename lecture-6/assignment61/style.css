@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.main-content section {
+  width: 50%;
+  float: left;
+  padding: 20px 20px 0 20px;
+}
+
+.main-content section img {
+  float: left;
+  padding-right: 16px;
+}
+
+.main-content section h2 {
+  margin-bottom: 30px;
+}
+
+.main-content section p {
+  margin-bottom: 30px;
+}
+
+.main-content section a {
+  float: right;
+}
